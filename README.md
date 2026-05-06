@@ -114,8 +114,6 @@ This project presents an interactive E-commerce Sales Dashboard built using Powe
 👩‍💻 Author
 
 Prachi Prashant Pawar
-Aspiring Data Analyst
-📍 Chakan, Pune
 
 ---
 
